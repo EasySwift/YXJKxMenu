@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
 
   s.source_files = 'Pod/*.{h,m}'
   s.public_header_files = 'Pod/*.h'
-  s.resource = 'pod/*.bundle'
+  #s.resource = 'pod/*.bundle'
 
   s.frameworks = 'UIKit'
 
